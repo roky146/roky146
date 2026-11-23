@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" alt="GSAP" />
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="React Query" />
   <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white" alt="Styled Components" />
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix" />
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
   <img src="https://img.shields.io/badge/Application_Gateway-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Application Gateway" />
   <img src="https://img.shields.io/badge/IBM_i_(AS400)-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM i" />
