@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=150&section=header&text=Marcos%20Rodr%C3%ADguez%20Merlo&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Desarrollo%20de%20apps%20%C2%B7%20SRE%20%C2%B7%20Producci%C3%B3n%20TI&descSize=16&descAlignY=60" alt="Marcos Rodríguez Merlo" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=Desarrollador+web+y+de+aplicaciones;Producci%C3%B3n+TI+y+confiabilidad+(SRE);Estudiante+de+Ingenier%C3%ADa+en+Ciberseguridad;Automatizo+lo+repetitivo+con+PowerShell+y+Python" alt="Desarrollador web y de aplicaciones, Producción TI y SRE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=Desarrollo+web+y+m%C3%B3vil;Producci%C3%B3n+TI+y+SRE;Ingenier%C3%ADa+en+Ciberseguridad" alt="Desarrollo web y móvil, Producción TI y SRE" />
 </p>
 
 <p align="center">
@@ -14,27 +14,25 @@
 
 ## Sobre mí
 
-- Soy desarrollador y diseñador web en Santo Domingo, República Dominicana.
-- Estudio Ingeniería en Ciberseguridad y trabajo en Producción TI, donde atiendo incidentes y cuido la estabilidad de servicios de banca digital.
-- Me interesa el enfoque SRE. Medir, automatizar y dejar cada falla documentada para que no se repita.
-- Creo que las experiencias digitales limpias, interactivas y adaptables conectan a un negocio con sus clientes, y me gusta construirlas de punta a punta.
-- Convierto tareas manuales en scripts y herramientas con menú, para que cualquiera del equipo pueda repetirlas sin errores.
+- Desarrollador web y móvil en Santo Domingo, República Dominicana.
+- Trabajo en Producción TI, en incidentes y SRE para servicios de banca digital.
+- Estudio Ingeniería en Ciberseguridad.
 
 ## Qué hago
 
 | Área | Detalle |
 | --- | --- |
-| Desarrollo frontend | Sitios y aplicaciones con React, Next.js, Astro y TypeScript, cuidando diseño y rendimiento. |
-| Desarrollo móvil y apps | Aplicaciones con Flutter y herramientas internas para operar más rápido. |
-| APIs e integraciones | Consumo y publicación de APIs, y automatización de inventarios y validaciones. |
-| SRE y operaciones | Diagnóstico de incidentes por capas, observabilidad, parchado y automatización de tareas repetitivas. |
-| Diseño UI/UX | Interfaces claras y adaptables, con animaciones que aportan sin estorbar. |
+| Frontend | React, Next.js, Astro y TypeScript. |
+| Móvil | Kotlin, Android Auto y Flutter. |
+| APIs e integraciones | REST, GraphQL y Layer7 API Gateway. |
+| SRE y operaciones | Incidentes, monitoreo con Zabbix y Grafana, parchado y scripts en PowerShell y Python. |
+| Diseño UI/UX | Figma, Framer Motion y GSAP. |
 
 ## Tecnologías y herramientas
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,nextjs,astro,rails,flutter,dart,py,figma,git,github,githubactions,docker,kubernetes,grafana,prometheus,nginx,azure,linux,windows,powershell,bash,vscode&perline=10&theme=dark" alt="Tecnologías" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,nextjs,astro,rails,kotlin,flutter,dart,py,figma,git,github,githubactions,docker,kubernetes,grafana,prometheus,nginx,azure,linux,windows,powershell,bash,vscode&perline=10&theme=dark" alt="Tecnologías" />
   </a>
 </p>
 
@@ -52,10 +50,15 @@
 
 ## Proyecto destacado
 
+<h3 align="center">VDash</h3>
+
+<p align="center">Tablero y diagnóstico OBD para el teléfono y Android Auto.</p>
+
 <p align="center">
-  <a href="https://github.com/roky146/mrmerlo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=roky146&repo=mrmerlo&theme=tokyonight&hide_border=true" alt="mrmerlo" />
-  </a>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android_Auto-3DDC84?style=flat-square&logo=androidauto&logoColor=white" alt="Android Auto" />
+  <img src="https://img.shields.io/badge/OBD--II-1a1b26?style=flat-square" alt="OBD-II" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
 
 ## Estadísticas
