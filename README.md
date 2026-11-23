@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://mrmerlo.com"><img src="https://img.shields.io/badge/Portafolio-mrmerlo.com-7aa2f7?style=flat-square&logo=googlechrome&logoColor=white" alt="Portafolio" /></a>
+  <a href="https://www.linkedin.com/in/marcos-rodr%C3%ADguez-merlo-367569224"><img src="https://img.shields.io/badge/LinkedIn-Marcos_Rodr%C3%ADguez_Merlo-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://komarev.com/ghpvc/?username=roky146&label=Visitas&style=flat-square&color=7aa2f7" alt="Visitas al perfil" />
 </p>
 
